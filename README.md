@@ -31,4 +31,4 @@ The `TestingTool.cs` script is a simple, yet powerful tool that can help you tes
 Please let me know if you have any questions or suggestions, I would be happy to help you.
 
 ## Note
-Please feel free to use and adapt this code to your needs, but please don't forget to give credit if you use it in your projects.
+Please feel free to use and adapt this code to your needs.
